@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Marchena</h1>
-<h2 align="center">A blockhain and Microservices developer </h2>
+<h2 align="center">A blockhain and Microservices DevOps </h2>
 
 
 
@@ -8,10 +8,11 @@
 
 #### About me 😃
 
-
-- 👨‍💻 I’m developer with programming Languages **Golang, Java, JavaScript, Solidity, Rust**.
-
 -  I am looking to collaborate with **blockchain**  and **microservices** projects.
+
+- 👨‍💻 Developer with programming Languages **Golang, Java, JavaScript, Solidity, Rust**.
+
+
 
 
 
